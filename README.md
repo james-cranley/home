@@ -1,4 +1,5 @@
-# James Cranley
+# James Cranley BM BCh, MA (Oxon), MRCP
+
 
 ### Information
 Email: 		[james.cranley@nhs.net](mailto:james.cranley@nhs.net)
@@ -248,4 +249,3 @@ Prof. Calum MacRae, Chief of Cardiovascualr Medicine, Brigham & Women’s Hospit
 Dr. Charlotte Summers, Director of Academic Clinical Fellowship Proghramme, Cambridge University
 
 Contact details available on request
-![image](https://user-images.githubusercontent.com/67601299/116904115-36f1ea00-ac35-11eb-96ae-5e4a9d2d03db.png)
