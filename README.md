@@ -1,4 +1,4 @@
-# James Cranley BM BCh, MA (Oxon), MRCP
+# Dr. James Cranley	BM BCh, MA (Oxon), MRCP
 
 
 ### Information
@@ -6,9 +6,9 @@ Email: 		[james.cranley@nhs.net](mailto:james.cranley@nhs.net)
 
 Twitter		[@jamescranley](https://twitter.com/jamescranley)
 
-Tel: 		+44 7739 914 901
+Tel: 		+44 (0) 7739 914 901
 
-DOB: 		6/1/1989
+DOB: 		6 Jan 1989
 
 GMC: 		7411765
 
@@ -233,7 +233,7 @@ I.T.		Proficient in Microsoft Office
 
 Significant Extra-Curricular Activities & Responsibilities
 
-		University Challenge 2009/10 (2nd overall)
+University Challenge 2009/10
 
 Lincoln College Cricket Captaincy
 
