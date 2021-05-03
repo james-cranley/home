@@ -2,11 +2,17 @@
 
 ### Information
 Email: 		[james.cranley@nhs.net](mailto:james.cranley@nhs.net)
-Twitter [@jamescranley](https://twitter.com/jamescranley)
+
+Twitter		[@jamescranley](https://twitter.com/jamescranley)
+
 Tel: 		+44 7739 914 901
+
 DOB: 		6/1/1989
+
 GMC: 		7411765
+
 Location: 	Cambridge, UK
+
 Nationality:	British
 
 ### Education & Training
@@ -38,7 +44,7 @@ Nationality:	British
 •	Prizes: Compton-Burnett (Biology), Philosophy Essay (The Newcastle Scholarship)
 •	Scholarships: Oppidan Scholarship (Academics)
 
-Clinical Employment & Experience
+### Clinical Employment & Experience
 
 2017- ongoing	Specialty Training, Cardiology – East of England LETB
 •	ST3			Addenbrooke’s Hospital
@@ -64,7 +70,7 @@ April 2014	Taster Week - Cardiology Department, Hammersmith Hospital Sponsor: Dr
 March 2013	Elective – Cardiology Department, Mount Sinai Heart, New York Sponsor: Dr. Valentin Fuster, 
 August 2009	Medical Experience – Orthopaedics, Hospital for Special Surgery, New York Sponsor: Dr. Amar Ranawat
  
-Research Experience
+### Research Experience
 
 Feb – May 2018	Munroe Laboratory, Queen Mary University of London. UK Biobank GWAS Project.
 
@@ -75,9 +81,7 @@ Feb – May 2016	Huang Laboratory, Cambridge University. Basic science project i
 2012-2013	Herring Laboratory, Oxford University. Basic science project (BSc). Cardiac neuropeptide Galanin.
 
 
-
-Publications
-
+### Publications
 
 Case series	Cranley J, Hardiman A, Freeman LJ.
 Pulsed Levosimendan in advanced heart failure due to congenital heart disease.
@@ -122,7 +126,7 @@ Original research	Herring N, Cranley J, Lokale MN, Li D, Shanks J, Alston EN, et
 The cardiac sympathetic co-transmitter galanin reduces acetylcholine release and vagal bradycardia: Implications for neural control of cardiac excitability.
 Journal of Molecular and Cellular Cardiology. 2012 Mar;52(3):667–76
  
-Posters, Abstracts and Presentations
+### Posters, Abstracts and Presentations
 
 Presentation	Cranley, Paddock, Mellor
 		‘KCNQ1 variants and JLNS, genotype-phenotype correlations’
@@ -156,7 +160,7 @@ Poster		Rafique, Cranley, Phare
 
 
 
-Audit and Quality Improvement Experience
+### Audit and Quality Improvement Experience
 
 
 Audit		Cranley, Reinhold
@@ -177,7 +181,7 @@ Audit		Cranley, Sunderland, Herring
 QI Project	Cranley, Thiruchelvam
 		Charing Cross Acute Mastitis Pathway, 2014.
  
-Teaching Experience
+### Teaching Experience
 
 Programme	Trainee Representative for East of England. Designed and delivered training days, created website.
 
@@ -210,7 +214,7 @@ Seminar		MedEd Course 2013. ECG teaching to Oxford 4th year students.
 Small Group	Bluestutors 2007-2013:. A-level tuition for prospective medical students.
 
 
-Other Skills and Qualifications
+### Other Skills and Qualifications
 
 Medical		Advanced Life Support (June 2013)
 		MRCP Part I (September 2014)
@@ -239,7 +243,7 @@ Charity Work: Order of Malta Volunteers 2008/9
 
 
  
-Referees
+### Referees
 
 Prof. Calum MacRae, Chief of Cardiovascualr Medicine, Brigham & Women’s Hospital, Harvard University
 Dr. Charlotte Summers, Director of Academic Clinical Fellowship Proghramme, Cambridge University
