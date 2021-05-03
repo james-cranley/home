@@ -162,7 +162,6 @@ Poster		Rafique, Cranley, Phare
 
 ### Audit and Quality Improvement Experience
 
-
 Audit		Cranley, Reinhold
 		CUH Devices Audit 2019 (NICE TA 314)
 
