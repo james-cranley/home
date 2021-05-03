@@ -2,17 +2,11 @@
 
 ### Information
 Email: 		[james.cranley@nhs.net](mailto:james.cranley@nhs.net)
-
 Twitter [@jamescranley](https://twitter.com/jamescranley)
-
 Tel: 		+44 7739 914 901
-
 DOB: 		6/1/1989
-
 GMC: 		7411765
-
 Location: 	Cambridge, UK
-
 Nationality:	British
 
 ### Education & Training
